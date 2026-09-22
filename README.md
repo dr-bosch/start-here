@@ -1,4 +1,4 @@
-![Redundancy Awareness](https://github.com/dr-wojak/start-here/blob/main/dealraitheachas-agus-riarachanachas-banner.png)
+![Redundancy Awareness](https://github.com/dr-bosch/start-here/blob/main/dealraitheachas-agus-riarachanachas-banner.png)
 
 # **START HERE**
 
@@ -85,15 +85,15 @@ The closing principle of the Unified Charter names this with a precision that th
 
 This repository serves as the Supporting Material for Memorandum E. It represents not merely an archival exercise, but an act of civic solidarity: the documentation of a long and largely solitary effort to hold institutions to account on behalf of a public that has, as yet, been given no formal opportunity to engage with the underlying analysis. This is a fixed public evidentiary record of Ireland’s governance, preparedness, and strategic-decision failures from 2008–2025. It preserves the meticulous documentation, analytical framing, statutory filings, and technical justification that reveal how successive administrations and institutions systematically deflected, contained, and displaced critical Operations-Research-based intelligence and risk signals without substantive engagement — creating a burden-of-proof shift that exposes pervasive institutional non-responsiveness rather than merely outlining it
 
-**https://github.com/dr-wojak/governmentality-2025**
+**https://github.com/dr-crunch/governmentality-2025**
 
 **A permanent, auditable record of how demonstrable governance risk was documented, formally escalated, and institutionally absorbed without decision.**
 
-🇮🇪 Achoimre as Gaeilge: [rialtasacht-2025](https://github.com/dr-wojak/governmentality-2025)  
-🇫🇷 Synopsis en Français: [gouvernementalité-2025](https://github.com/dr-wojak/governmentality-2025)  
-🇧🇪 Samenvatting in het Nederlands (BE): [gouvernementaliteit-2025-BE](https://github.com/dr-wojak/governmentality-2025)  
-🇱🇺 Résumé en Luxembourgeois: [gouvernementalitéit-2025-LU](https://github.com/dr-wojak/governmentality-2025)  
-🇳🇱 Samenvatting in het Nederlands (NL): [bestuurlijkheid-2025](https://github.com/dr-wojak/governmentality-2025)
+🇮🇪 Achoimre as Gaeilge: [rialtasacht-2025](https://github.com/dr-crunch/governmentality-2025)  
+🇫🇷 Synopsis en Français: [gouvernementalité-2025](https://github.com/dr-crunch/governmentality-2025)  
+🇧🇪 Samenvatting in het Nederlands (BE): [gouvernementaliteit-2025-BE](https://github.com/dr-crunch/governmentality-2025)  
+🇱🇺 Résumé en Luxembourgeois: [gouvernementalitéit-2025-LU](https://github.com/dr-crunch/governmentality-2025)  
+🇳🇱 Samenvatting in het Nederlands (NL): [bestuurlijkheid-2025](https://github.com/dr-crunch/governmentality-2025)
 
 ---
 
@@ -117,7 +117,7 @@ It documents:
 
 This repository establishes that the failure was **institutional**, not intellectual.
 
-[Ethical and Ficuciary Breach of Conduct + Twenty Years of Clear Evasion](https://github.com/dr-wojak/governmentality-2025)
+[Ethical and Ficuciary Breach of Conduct + Twenty Years of Clear Evasion](https://github.com/dr-crunch/governmentality-2025)
 
 <details>
 
@@ -257,7 +257,7 @@ Each layer exists because the previous one failed to produce action.
 
 None can be dismissed without confronting the others.
 
-[Redundancy Awareness](https://github.com/dr-wojak/redundancy-awareness)
+[Redundancy Awareness](https://github.com/dr-bosch/redundancy-awareness)
 
 ---
 
